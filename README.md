@@ -1,4 +1,5 @@
-First things first, install the module:
+First things first, install:
+`https://nodejs.org/en/download/`
 
 `npm install webpack-dev-server --save-dev`
 

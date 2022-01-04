@@ -4,8 +4,8 @@ First things first, install the module:
 
 Run:
 
-`npx webpack serve`
+`npx webpack serve` || `npm run dev`
 
 Pack dist:
 
-`npx webpack`
+`npx webpack` || `npm run build`

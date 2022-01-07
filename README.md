@@ -3,7 +3,7 @@
 First things first, install:
 `https://nodejs.org/en/download/`
 
-`npm install webpack-dev-server --save-dev`
+`npm install`
 
 Run:
 

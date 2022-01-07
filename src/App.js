@@ -1,12 +1,13 @@
 import React, { Component } from 'react';
+import Header from './components/Header'
 
-class Header extends Component {
+class App extends Component {
     render() {
         return (
             <div>
-                <img src="./assets/logo.png" class="center logo" />
+                <Header />
             </div>
         );
     }
 }
-export default Header;
+export default App;

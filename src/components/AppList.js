@@ -1,11 +1,19 @@
 import React, { Component } from 'react';
+import AppListItem from './AppListItem'
 
 class AppList extends Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            items: []
+        };
+    }
     componentDidMount() {
         fetch(location.origin + "/assets/appList.json")
             .then(res => res.json())
             .then(
                 (result) => {
+                    debugger;
                     this.setState({
                         isLoaded: true,
                         items: result.items
@@ -25,7 +33,9 @@ class AppList extends Component {
     render() {
         return (
             <div>
-                App List
+                {this.state.items.map(function (item, index) {
+                    return <AppListItem />;
+                })}
             </div>
         );
     }

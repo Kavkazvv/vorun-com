@@ -13,7 +13,6 @@ class AppList extends Component {
             .then(res => res.json())
             .then(
                 (result) => {
-                    debugger;
                     this.setState({
                         isLoaded: true,
                         items: result.items
@@ -34,7 +33,7 @@ class AppList extends Component {
         return (
             <div>
                 {this.state.items.map(function (item, index) {
-                    return <AppListItem />;
+                    return <AppListItem item={item}/>;
                 })}
             </div>
         );

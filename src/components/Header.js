@@ -4,7 +4,13 @@ class Header extends Component {
     render() {
         return (
             <div>
-                <img src="./assets/logo.png" class="center logo" />
+                <table width="100%" border="1">
+                    <tr>
+                        <td align="center">
+                            <img src="./assets/logo.png" />
+                        </td>
+                    </tr>
+                </table>
             </div>
         );
     }

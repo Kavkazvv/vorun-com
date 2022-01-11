@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import StoreLink from './StoreLink'
+import Spacer from './Spacer'
 
 class AppListItem extends Component {
     constructor(props) {

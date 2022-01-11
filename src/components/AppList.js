@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import AppListItem from './AppListItem'
+import AppListItem from './AppListItem';
+import Spacer from './Spacer';
 
 class AppList extends Component {
     constructor(props) {
@@ -32,8 +33,8 @@ class AppList extends Component {
     render() {
         return (
             <div>
-                {this.state.items.map(function (item, index) {
-                    return <AppListItem item={item}/>;
+                {this.state.items.map(function (item) {
+                    return <div><Spacer axis="vertical" size={120} /><AppListItem item={item}/></div>;
                 })}
             </div>
         );

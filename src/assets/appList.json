@@ -6,7 +6,7 @@
             "stores": [
                 {
                     "icon": "https://vorun.com/assets/apple.png",
-                    "link": "https://www.amazon.com/gp/mas/dl/android?p=com.vorun.yaya.underground"
+                    "link": "https://itunes.apple.com/us/app/level-maker/id1054611476?mt=8"
                 },
                 {
                     "icon": "https://vorun.com/assets/google.png",
@@ -14,7 +14,25 @@
                 },
                 {
                     "icon": "https://vorun.com/assets/amazon.png",
-                    "link": "https://itunes.apple.com/us/app/level-maker/id1054611476?mt=8"
+                    "link": "https://www.amazon.com/gp/mas/dl/android?p=com.vorun.yaya.underground"
+                }
+            ]
+        },
+        {
+            "cover": "http://vorun.com/levelmaker/dth2.png",
+            "coverLink": "https://github.com/vkreal",
+            "stores": [
+                {
+                    "icon": "https://vorun.com/assets/apple.png",
+                    "link": "https://itunes.apple.com/us/app/down-the-hill-2/id1006427992?mt=8"
+                },
+                {
+                    "icon": "https://vorun.com/assets/google.png",
+                    "link": "https://play.google.com/store/apps/details?id=com.vorun.dth2"
+                },
+                {
+                    "icon": "https://vorun.com/assets/amazon.png",
+                    "link": "https://www.amazon.com/gp/mas/dl/android?p=com.vorun.dth2.underground"
                 }
             ]
         },
@@ -29,24 +47,6 @@
                 {
                     "icon": "https://vorun.com/assets/google.png",
                     "link": "https://play.google.com/store/apps/details?id=com.vorun.yaya"
-                }
-            ]
-        },
-        {
-            "cover": "http://vorun.com/levelmaker/logo.png",
-            "coverLink": "https://github.com/vkreal",
-            "stores": [
-                {
-                    "icon": "https://vorun.com/assets/apple.png",
-                    "link": "https://www.amazon.com/gp/mas/dl/android?p=com.vorun.yaya.underground"
-                },
-                {
-                    "icon": "https://vorun.com/assets/google.png",
-                    "link": "https://play.google.com/store/apps/details?id=com.vorun.yaya"
-                },
-                {
-                    "icon": "https://vorun.com/assets/amazon.png",
-                    "link": "https://itunes.apple.com/us/app/level-maker/id1054611476?mt=8"
                 }
             ]
         }

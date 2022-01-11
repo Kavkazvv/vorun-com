@@ -8,6 +8,14 @@
 </head>
 
 <body>
+    <div id="fb-root"></div>
+    <script>(function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=172084256183917";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
     <a href="https://github.com/vkreal/vorun-com" class="github-corner" aria-label="View source on GitHub"><svg
             width="160" height="160" viewBox="0 0 250 250"
             style="fill:#64CEAA; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true">
@@ -21,6 +29,7 @@
         </svg></a>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </body>
 
 </html>

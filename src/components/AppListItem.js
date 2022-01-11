@@ -17,7 +17,7 @@ class AppListItem extends Component {
                     </tr>
                     <tr>
                         <td>
-                            <table width="100%" border="1">
+                            <table width="100%" border="0">
                                 <tr>
                                     {stores.map((item, index) => {
                                         return <td align="center">

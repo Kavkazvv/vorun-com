@@ -11,7 +11,6 @@ class App extends Component {
                 <Header />
                 <Spacer axis="vertical" size={60} />
                 <Social />
-                <Spacer axis="vertical" size={60} />
                 <AppList />
             </div>
         );

@@ -8,7 +8,7 @@ class StoreLink extends Component {
         const { item } = this.props;
         return (
             <a href={item.link}>
-                <img src={item.icon} height="100px"></img>
+                <img src={item.icon} height="120px"></img>
             </a>
         );
     }

@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import StoreLink from './StoreLink'
 
 class AppListItem extends Component {
     constructor(props) {
@@ -20,9 +21,7 @@ class AppListItem extends Component {
                                 <tr>
                                     {stores.map((item, index) => {
                                         return <td align="center">
-                                            <a href={item.link}>
-                                                <img src={item.icon} height="100px"></img>
-                                            </a>
+                                            <StoreLink item={item} />
                                         </td>
                                     })}
                                 </tr>

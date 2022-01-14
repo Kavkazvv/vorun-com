@@ -10,10 +10,10 @@ class AppListItem extends Component {
         const { cover, stores } = this.props.item;
         return (
             <div>
-                <table align="center">
+                <table border="0" width="100%">
                     <tr>
-                        <td>
-                            <img src={cover} />
+                        <td align="center">
+                            <img src={cover} class="responsive"/>
                         </td>
                     </tr>
                     <tr>

@@ -1,14 +1,22 @@
 html,
 body {
-    width: 100%;
-    height: 100%;
     margin: 0px;
     padding: 0px;
-    min-width: 1140px;
     /* this is the important part*/
 }
 
 #root {
     margin: 0;
+    /* background-color: red; */
+}
+
+.responsive {
     width: 100%;
+    height: auto;
+}
+
+img.header {
+    display:block;
+    margin:auto;
+    width: 80%;
 }

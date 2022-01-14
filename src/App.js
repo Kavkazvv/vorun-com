@@ -9,7 +9,7 @@ class App extends Component {
         return (
             <div>
                 <Header />
-                <Spacer axis="vertical" size={60} />
+                <Spacer axis="vertical" size={30} />
                 <Social />
                 <AppList />
             </div>

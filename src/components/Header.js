@@ -7,7 +7,7 @@ class Header extends Component {
                 <table width="100%" border="0">
                     <tr>
                         <td align="center">
-                            <img src="./assets/logo.png" />
+                            <img class="header" src="./assets/logo.png" />     
                         </td>
                     </tr>
                 </table>

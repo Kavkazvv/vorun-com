@@ -3,7 +3,7 @@
 
 ## REACT JS ##
 
-First things first, [install:] (https://nodejs.org/en/download/)
+First things first, [install:](https://nodejs.org/en/download/)
 
 `npm install`
 

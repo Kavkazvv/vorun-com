@@ -1,7 +1,7 @@
 ## Visit ##
 [vorun.com](https://vorun.com)
 
-## REACT JS ##
+## ReactJS ##
 
 First things first, [install](https://nodejs.org/en/download/)
 

@@ -21,7 +21,7 @@ class AppListItem extends Component {
                             <table width="100%" border="0">
                                 <tr>
                                     {stores.map((item, index) => {
-                                        return <td align="center">
+                                        return <td align="center" colspan="3">
                                             <StoreLink item={item} />
                                         </td>
                                     })}

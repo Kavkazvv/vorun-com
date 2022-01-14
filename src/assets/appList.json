@@ -1,7 +1,7 @@
 {
     "items":[
         {
-            "cover": "http://vorun.com/levelmaker/logo.png",
+            "cover": "http://vorun.com/assets/levelmaker1.png",
             "coverLink": "https://github.com/vkreal",
             "stores": [
                 {
@@ -19,7 +19,7 @@
             ]
         },
         {
-            "cover": "http://vorun.com/levelmaker/dth2.png",
+            "cover": "http://vorun.com/assets/dth2.png",
             "coverLink": "https://github.com/vkreal",
             "stores": [
                 {
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "cover": "http://vorun.com/levelmaker/logo.png",
+            "cover": "http://vorun.com/assets/levelmaker1.png",
             "coverLink": "https://github.com/vkreal",
             "stores": [
                 {

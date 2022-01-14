@@ -61,7 +61,7 @@
             ]
         },
         {
-            "cover": "./assets/bmx.png",
+            "cover": "./assets/bmx2.png",
             "coverLink": "https://play.google.com/store/apps/details?id=com.rad.bmx.race",
             "stores": [
                 {
@@ -81,6 +81,34 @@
                 {
                     "icon": "https://vorun.com/assets/google.png",
                     "link": "https://play.google.com/store/apps/details?id=com.vorun.yaya2"
+                }
+            ]
+        },
+        {
+            "cover": "./assets/monkeysling.png",
+            "coverLink": "https://vorun.com/ms/chrome/",
+            "stores": [
+                {
+                    "icon": "./assets/online.png",
+                    "link": "https://vorun.com/ms/chrome/"
+                },
+                {
+                    "icon": "./assets/folkme.png",
+                    "link": "https://github.com/vkreal/MonkeySling"
+                }
+            ]
+        },
+        {
+            "cover": "./assets/breakit.png",
+            "coverLink": "https://experiments.withgoogle.com/break-it-game",
+            "stores": [
+                {
+                    "icon": "./assets/online.png",
+                    "link": "https://experiments.withgoogle.com/break-it-game"
+                },
+                {
+                    "icon": "./assets/folkme.png",
+                    "link": "https://github.com/vkreal/HTML5-Break-It-Game"
                 }
             ]
         }

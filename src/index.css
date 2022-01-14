@@ -4,6 +4,7 @@ body {
     margin: 0px;
     padding: 0px;
     /* this is the important part*/
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
 }
 
 #root {

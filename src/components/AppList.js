@@ -34,7 +34,7 @@ class AppList extends Component {
         return (
             <div>
                 {this.state.items.map(function (item) {
-                    return <div><Spacer axis="vertical" size={30} /><AppListItem item={item}/></div>;
+                    return <div><Spacer axis="vertical" size={40} /><AppListItem item={item}/></div>;
                 })}
             </div>
         );

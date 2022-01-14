@@ -2,7 +2,7 @@
     "items":[
         {
             "cover": "./assets/levelmaker1.png",
-            "coverLink": "https://github.com/vkreal",
+            "coverLink": "https://play.google.com/store/apps/details?id=com.vorun.yaya",
             "stores": [
                 {
                     "icon": "https://vorun.com/assets/apple.png",
@@ -20,7 +20,7 @@
         },
         {
             "cover": "./assets/jw1.png",
-            "coverLink": "https://github.com/vkreal",
+            "coverLink": "https://play.google.com/store/apps/details?id=com.vorun.superjaysworld",
             "stores": [
                 {
                     "icon": "https://vorun.com/assets/apple.png",
@@ -34,7 +34,7 @@
         },
         {
             "cover": "./assets/jw2.png",
-            "coverLink": "https://github.com/vkreal",
+            "coverLink": "https://play.google.com/store/apps/details?id=com.vorun.superjaysworld2",
             "stores": [
                 {
                     "icon": "https://vorun.com/assets/google.png",
@@ -44,7 +44,7 @@
         },
         {
             "cover": "./assets/dth2.png",
-            "coverLink": "https://github.com/vkreal",
+            "coverLink": "https://play.google.com/store/apps/details?id=com.vorun.dth2",
             "stores": [
                 {
                     "icon": "https://vorun.com/assets/apple.png",
@@ -62,7 +62,7 @@
         },
         {
             "cover": "./assets/bmx.png",
-            "coverLink": "https://github.com/vkreal",
+            "coverLink": "https://play.google.com/store/apps/details?id=com.rad.bmx.race",
             "stores": [
                 {
                     "icon": "https://vorun.com/assets/apple.png",
@@ -76,7 +76,7 @@
         },
         {
             "cover": "./assets/levelmaker2.png",
-            "coverLink": "https://github.com/vkreal",
+            "coverLink": "https://play.google.com/store/apps/details?id=com.vorun.yaya2",
             "stores": [
                 {
                     "icon": "https://vorun.com/assets/google.png",

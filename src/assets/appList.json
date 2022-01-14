@@ -1,7 +1,7 @@
 {
     "items":[
         {
-            "cover": "http://vorun.com/assets/levelmaker1.png",
+            "cover": "./assets/levelmaker1.png",
             "coverLink": "https://github.com/vkreal",
             "stores": [
                 {
@@ -19,7 +19,7 @@
             ]
         },
         {
-            "cover": "http://vorun.com/assets/dth2.png",
+            "cover": "./assets/dth2.png",
             "coverLink": "https://github.com/vkreal",
             "stores": [
                 {
@@ -37,16 +37,20 @@
             ]
         },
         {
-            "cover": "http://vorun.com/assets/levelmaker1.png",
+            "cover": "./assets/levelmaker2.png",
             "coverLink": "https://github.com/vkreal",
             "stores": [
                 {
-                    "icon": "https://vorun.com/assets/apple.png",
-                    "link": "https://www.amazon.com/gp/mas/dl/android?p=com.vorun.yaya.underground"
+                    "icon": "./assets/storeblank.png",
+                    "link": ""
                 },
                 {
                     "icon": "https://vorun.com/assets/google.png",
-                    "link": "https://play.google.com/store/apps/details?id=com.vorun.yaya"
+                    "link": "https://play.google.com/store/apps/details?id=com.vorun.yaya2"
+                },
+                {
+                    "icon": "./assets/storeblank.png",
+                    "link": ""
                 }
             ]
         }

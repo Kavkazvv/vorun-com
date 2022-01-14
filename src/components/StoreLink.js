@@ -6,11 +6,17 @@ class StoreLink extends Component {
     }
     render() {
         const { item } = this.props;
-        return (
-            <a href={item.link}>
+        if (item.link) {
+            return (
+                <a href={item.link}>
+                    <img src={item.icon} class="responsive"></img>
+                </a>
+            );
+        } else {
+            return (
                 <img src={item.icon} class="responsive"></img>
-            </a>
-        );
+            );
+        }
     }
 }
 export default StoreLink;

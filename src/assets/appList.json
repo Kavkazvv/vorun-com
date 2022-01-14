@@ -85,6 +85,16 @@
             ]
         },
         {
+            "cover": "./assets/atv.png",
+            "coverLink": "https://apps.apple.com/us/app/atv-rally/id993535431",
+            "stores": [
+                {
+                    "icon": "https://vorun.com/assets/apple.png",
+                    "link": "https://apps.apple.com/us/app/atv-rally/id993535431"
+                }
+            ]
+        },
+        {
             "cover": "./assets/monkeysling.png",
             "coverLink": "https://vorun.com/ms/chrome/",
             "stores": [

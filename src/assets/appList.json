@@ -61,6 +61,20 @@
             ]
         },
         {
+            "cover": "./assets/bmx.png",
+            "coverLink": "https://github.com/vkreal",
+            "stores": [
+                {
+                    "icon": "https://vorun.com/assets/apple.png",
+                    "link": "https://apps.apple.com/us/app/bmx-race/id1568956588"
+                },
+                {
+                    "icon": "https://vorun.com/assets/google.png",
+                    "link": "https://play.google.com/store/apps/details?id=com.rad.bmx.race"
+                }
+            ]
+        },
+        {
             "cover": "./assets/levelmaker2.png",
             "coverLink": "https://github.com/vkreal",
             "stores": [

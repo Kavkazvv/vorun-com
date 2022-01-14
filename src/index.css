@@ -11,7 +11,10 @@ body {
     margin: 0;
     /* background-color: red; */
 }
-
+.title {
+    color: white;
+    font-size: 4.2vw;
+}
 .responsive {
     width: 100%;
     height: auto;

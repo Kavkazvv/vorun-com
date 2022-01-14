@@ -7,15 +7,27 @@ class AppListItem extends Component {
         super(props);
     }
     render() {
-        const { cover, stores } = this.props.item;
+        const { cover, stores, title } = this.props.item;
         return (
             <div>
                 <table border="0" width="100%">
                     <tr>
                         <td align="center">
-                            <img src={cover} class="responsive"/>
+                            <img src={cover} class="responsive" />
                         </td>
                     </tr>
+                    {(() => {
+                        if (title) {
+                            return (
+                                <tr>
+                                    <td align="center" class="title">
+                                        {title}
+                                    </td>
+                                </tr>
+                            )
+                        }
+                        return null;
+                    })()}
                     <tr>
                         <td>
                             <table width="100%" border="0">

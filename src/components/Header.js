@@ -8,7 +8,7 @@ class Header extends Component {
                     <tbody>
                         <tr>
                             <td align="center">
-                                <img className="header" src="./assets/logo.png" />
+                                <img className="header" src="./assets/logo2.png" />
                                 <br />
                             </td>
                         </tr>

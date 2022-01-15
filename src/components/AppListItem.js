@@ -8,12 +8,13 @@ class AppListItem extends Component {
     }
     render() {
         const { cover, stores, title } = this.props.item;
+        const className = "storeBtn" + stores.length;
         return (
             <div>
                 <table border="0" width="100%">
                     <tr>
                         <td align="center">
-                            <img src={cover} class="responsive" />
+                            <img src={cover} class="cover" />
                         </td>
                     </tr>
                     {(() => {
@@ -34,7 +35,7 @@ class AppListItem extends Component {
                                 <tr>
                                     {stores.map((item, index) => {
                                         return <td align="center" colspan="3">
-                                            <StoreLink item={item} />
+                                            <StoreLink item={item} className={className}/>
                                         </td>
                                     })}
                                 </tr>

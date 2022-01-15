@@ -5,16 +5,16 @@ class StoreLink extends Component {
         super(props);
     }
     render() {
-        const { item } = this.props;
+        const { item, className } = this.props;
         if (item.link) {
             return (
                 <a href={item.link}>
-                    <img src={item.icon} class="responsive"></img>
+                    <img src={item.icon} class={className}></img>
                 </a>
             );
         } else {
             return (
-                <img src={item.icon} class="responsive"></img>
+                <img src={item.icon} class={className}></img>
             );
         }
     }

@@ -61,4 +61,10 @@ body {
         width: 90%;
         height: auto;
     }
+    .badge {
+        width: 30%;
+        border-color: gray;
+        border-width: thin;
+        border-style: solid;
+    }
 }

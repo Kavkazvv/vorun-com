@@ -1,6 +1,21 @@
 {
     "items": [
         {
+            "cover": "./assets/jw1.png",
+            "title": "Run, jump and smack platformer.",
+            "coverLink": "https://play.google.com/store/apps/details?id=com.vorun.superjaysworld",
+            "stores": [
+                {
+                    "icon": "https://vorun.com/assets/apple.png",
+                    "link": "https://apps.apple.com/us/app/jays-world-super-adventure/id1508418238"
+                },
+                {
+                    "icon": "https://vorun.com/assets/google.png",
+                    "link": "https://play.google.com/store/apps/details?id=com.vorun.superjaysworld"
+                }
+            ]
+        },
+        {
             "cover": "./assets/levelmaker1.png",
             "coverLink": "https://play.google.com/store/apps/details?id=com.vorun.yaya",
             "title": "Play, Make and Share your levels with everyone!",
@@ -16,21 +31,6 @@
                 {
                     "icon": "https://vorun.com/assets/amazon.png",
                     "link": "https://www.amazon.com/gp/mas/dl/android?p=com.vorun.yaya.underground"
-                }
-            ]
-        },
-        {
-            "cover": "./assets/jw1.png",
-            "title": "Run, jump and smack platformer.",
-            "coverLink": "https://play.google.com/store/apps/details?id=com.vorun.superjaysworld",
-            "stores": [
-                {
-                    "icon": "https://vorun.com/assets/apple.png",
-                    "link": "https://apps.apple.com/us/app/jays-world-super-adventure/id1508418238"
-                },
-                {
-                    "icon": "https://vorun.com/assets/google.png",
-                    "link": "https://play.google.com/store/apps/details?id=com.vorun.superjaysworld"
                 }
             ]
         },

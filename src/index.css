@@ -38,6 +38,12 @@ body {
         width: 33%;
         height: auto;
     }
+    .badge {
+        width: 50%;
+        border-color: gray;
+        border-width: thin;
+        border-style: solid;
+    }
 }
 @media (min-width:480px)  { /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ 
 }

@@ -33,8 +33,8 @@ class AppList extends Component {
     render() {
         return (
             <div>
-                {this.state.items.map(function (item) {
-                    return <div><Spacer axis="vertical" size={40} /><AppListItem item={item}/></div>;
+                {this.state.items.map(function (item, index) {
+                    return <div key={index}><Spacer axis="vertical" size={40} /><AppListItem item={item}/></div>;
                 })}
             </div>
         );

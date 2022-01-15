@@ -9,12 +9,12 @@ class StoreLink extends Component {
         if (item.link) {
             return (
                 <a href={item.link}>
-                    <img src={item.icon} class={className}></img>
+                    <img src={item.icon} className={className}></img>
                 </a>
             );
         } else {
             return (
-                <img src={item.icon} class={className}></img>
+                <img src={item.icon} className={className}></img>
             );
         }
     }

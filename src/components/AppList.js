@@ -9,6 +9,8 @@ class AppList extends Component {
             items: []
         };
     }
+    componentWillUnmount()
+    componentDidUpdate(prevProps, prevState, snapshot) {}
     componentDidMount() {
         fetch(location.origin + "/assets/appList.json")
             .then(res => res.json())

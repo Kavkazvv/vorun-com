@@ -5,7 +5,7 @@ class StoreLink extends Component {
         super(props);
     }
     componentDidMount() {}
-    componentWillUnmount()
+    componentWillUnmount() {}
     componentDidUpdate(prevProps, prevState, snapshot) {}
     render() {
         const { item, className } = this.props;

@@ -14,7 +14,7 @@ class Header extends Component {
                         </tr>
                     </tbody>
                 </table>
-                <table width="100%" border="0">
+                {/* <table width="100%" border="0">
                     <tbody>
                         <tr>
                             <td align="right">
@@ -31,7 +31,7 @@ class Header extends Component {
                             </td>
                         </tr>
                     </tbody>
-                </table>
+                </table> */}
             </div>
         );
     }

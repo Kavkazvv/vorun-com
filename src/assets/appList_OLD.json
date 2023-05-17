@@ -84,6 +84,17 @@
             ]
         },
         {
+            "cover": "./assets/levelmaker2.png",
+            "title": "Play, Make and Share your games with everyone!",
+            "coverLink": "https://play.google.com/store/apps/details?id=com.vorun.yaya2",
+            "stores": [
+                {
+                    "icon": "https://vorun.com/assets/google.png",
+                    "link": "https://play.google.com/store/apps/details?id=com.vorun.yaya2"
+                }
+            ]
+        },
+        {
             "cover": "./assets/atv.png",
             "title": "Rally ATV insane jumps!",
             "coverLink": "https://apps.apple.com/us/app/atv-rally/id993535431",
@@ -91,6 +102,34 @@
                 {
                     "icon": "https://vorun.com/assets/apple.png",
                     "link": "https://apps.apple.com/us/app/atv-rally/id993535431"
+                }
+            ]
+        },
+        {
+            "cover": "./assets/monkeysling.png",
+            "coverLink": "https://vorun.com/ms/chrome/",
+            "stores": [
+                {
+                    "icon": "./assets/online.png",
+                    "link": "https://vorun.com/ms/chrome/"
+                },
+                {
+                    "icon": "./assets/folkme.png",
+                    "link": "https://github.com/vkreal/MonkeySling"
+                }
+            ]
+        },
+        {
+            "cover": "./assets/breakit.png",
+            "coverLink": "https://experiments.withgoogle.com/break-it-game",
+            "stores": [
+                {
+                    "icon": "./assets/online.png",
+                    "link": "https://experiments.withgoogle.com/break-it-game"
+                },
+                {
+                    "icon": "./assets/folkme.png",
+                    "link": "https://github.com/vkreal/HTML5-Break-It-Game"
                 }
             ]
         },
@@ -110,6 +149,17 @@
                 {
                     "icon": "https://vorun.com/assets/amazon.png",
                     "link": "https://www.amazon.com/kreal-Down-the-hill/dp/B00KBJ57M6"
+                }
+            ]
+        },
+        {
+            "cover": "./assets/dotdrop.png",
+            "title": "Simply drop dots to connect 3.",
+            "coverLink": "https://www.amazon.com/kreal-DotDrops/dp/B00O0643QC/",
+            "stores": [
+                {
+                    "icon": "https://vorun.com/assets/amazon.png",
+                    "link": "https://www.amazon.com/kreal-DotDrops/dp/B00O0643QC/"
                 }
             ]
         }

@@ -35,17 +35,6 @@
             ]
         },
         {
-            "cover": "./assets/jw2.png",
-            "title": "Run, jump and smack things 2.",
-            "coverLink": "https://play.google.com/store/apps/details?id=com.vorun.superjaysworld2",
-            "stores": [
-                {
-                    "icon": "https://vorun.com/assets/google.png",
-                    "link": "https://play.google.com/store/apps/details?id=com.vorun.superjaysworld2"
-                }
-            ]
-        },
-        {
             "cover": "./assets/dth2.png",
             "title": "Ride fast and furious!",
             "coverLink": "https://play.google.com/store/apps/details?id=com.vorun.dth2",
@@ -74,42 +63,8 @@
                     "link": "https://apps.apple.com/us/app/bmx-race/id1568956588"
                 },
                 {
-                    "icon": "https://vorun.com/assets/google.png",
-                    "link": "https://play.google.com/store/apps/details?id=com.rad.bmx.race"
-                },
-                {
                     "icon": "https://vorun.com/assets/amazon.png",
                     "link": "https://www.amazon.com/kreal-BMX-Race/dp/B07KFYBNSX"
-                }
-            ]
-        },
-        {
-            "cover": "./assets/atv.png",
-            "title": "Rally ATV insane jumps!",
-            "coverLink": "https://apps.apple.com/us/app/atv-rally/id993535431",
-            "stores": [
-                {
-                    "icon": "https://vorun.com/assets/apple.png",
-                    "link": "https://apps.apple.com/us/app/atv-rally/id993535431"
-                }
-            ]
-        },
-        {
-            "cover": "./assets/dth1.png",
-            "title": "Super extreme bike racing!",
-            "coverLink": "https://experiments.withgoogle.com/break-it-game",
-            "stores": [
-                {
-                    "icon": "https://vorun.com/assets/apple.png",
-                    "link": "https://apps.apple.com/us/app/down-the-hill/id831174735"
-                },
-                {
-                    "icon": "https://vorun.com/assets/google.png",
-                    "link": "https://play.google.com/store/apps/details?id=com.vorun.KrealX"
-                },
-                {
-                    "icon": "https://vorun.com/assets/amazon.png",
-                    "link": "https://www.amazon.com/kreal-Down-the-hill/dp/B00KBJ57M6"
                 }
             ]
         }

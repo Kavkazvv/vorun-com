@@ -7,18 +7,24 @@ class AppListItem extends Component {
         super(props);
     }
     render() {
-        const { cover, stores, title } = this.props.item;
+        const { cover, stores, title, appName } = this.props.item;
+        debugger;
         const className = "storeBtn" + stores.length;
         return (
             <div>
                 <table border="0" width="100%">
                     <tbody>
                         <tr>
+                            <td align="center" className="appName">
+                                {appName}
+                            </td>
+                        </tr>
+                        <tr>
                             <td align="center">
                                 <img src={cover} className="cover" />
                             </td>
                         </tr>
-                        {(() => {
+                        {/* {(() => {
                             if (title) {
                                 return (
                                     <tr>
@@ -29,7 +35,7 @@ class AppListItem extends Component {
                                 )
                             }
                             return null;
-                        })()}
+                        })()} */}
                         <tr>
                             <td>
                                 <table width="100%" border="0">

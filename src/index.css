@@ -2,9 +2,13 @@
     margin: 0;
     /* background-color: red; */
 }
+.appName {
+    color: white;
+    font-size: 4.8vw;
+}
 .title {
     color: white;
-    font-size: 4.2vw;
+    font-size: 3.2vw;
 }
 
 @media (min-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */ 

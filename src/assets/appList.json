@@ -1,6 +1,7 @@
 {
     "items": [
         {
+            "appName": "Jay's World",
             "cover": "./assets/jw1.png",
             "title": "Run, jump and smack platformer.",
             "coverLink": "https://play.google.com/store/apps/details?id=com.vorun.superjaysworld",
@@ -16,6 +17,7 @@
             ]
         },
         {
+            "appName": "Level Maker",
             "cover": "./assets/levelmaker1.png",
             "coverLink": "https://play.google.com/store/apps/details?id=com.vorun.yaya",
             "title": "Play, Make and Share your levels with everyone!",
@@ -35,6 +37,27 @@
             ]
         },
         {
+            "appName": "Super Level Maker",
+            "cover": "./assets/slm.png",
+            "coverLink": "https://play.google.com/store/apps/details?id=com.vorun.yaya",
+            "title": "Play, Make and Share your levels with everyone!",
+            "stores": [
+                {
+                    "icon": "https://vorun.com/assets/apple.png",
+                    "link": "https://apps.apple.com/us/app/super-level-maker/id6463569796"
+                },
+                {
+                    "icon": "https://vorun.com/assets/google.png",
+                    "link": "https://play.google.com/store/apps/details?id=com.vorun.superlevelmaker"
+                },
+                {
+                    "icon": "https://vorun.com/assets/amazon.png",
+                    "link": "https://www.amazon.com/kreal-Super-Level-Maker/dp/B0CH3ZJM1C"
+                }
+            ]
+        },
+        {
+            "appName": "Down the hill 2",
             "cover": "./assets/dth2.png",
             "title": "Ride fast and furious!",
             "coverLink": "https://play.google.com/store/apps/details?id=com.vorun.dth2",
@@ -54,6 +77,7 @@
             ]
         },
         {
+            "appName": "BMX Race",
             "cover": "./assets/bmx2.png",
             "title": "Extreme BMX bike riding action!",
             "coverLink": "https://play.google.com/store/apps/details?id=com.rad.bmx.race",

@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vorun.yaya",
+    "sha256_cert_fingerprints":
+    ["01:DB:A5:99:62:BA:E6:CA:9D:84:4C:63:CD:2E:B5:E0:9B:A6:65:8E:E3:08:E5:82:E7:1A:1C:1F:7A:78:A1:BB"]
+  }
+}]
